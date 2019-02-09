@@ -14,7 +14,7 @@ Haifeng Zhang is a research fellow at University College London working with Pro
   - Haifeng Zhang, Ge Gao, Wenxin Li, Cheng Zhong, Wenyuan Yu, Cheng Wang. "Botzone: A Game Playing System for Artificial Intelligence Education." [[FCES 2012]]
 
 # Projects
-  - [borzone.org], which is an online game AI competition platform widely applied in CS courses in various universities (including Peking university, Renmin University of China and Beijing University of Posts and telecommunications) and top algorithm competitions (including National Olympiad in Informatics and ACM/ICPC).
+  - [botzone.org], which is an online game AI competition platform widely applied in CS courses in various universities (including Peking university, Renmin University of China and Beijing University of Posts and telecommunications) and top algorithm competitions (including National Olympiad in Informatics and ACM/ICPC).
   - [General Game Playing System], which is a general game AI designed to play various games described by Game Description Language (GDL). 
 
 # Awards
