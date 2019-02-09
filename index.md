@@ -9,13 +9,27 @@ Haifeng Zhang is a research fellow at University College London working with Pro
   - Haifeng Zhang, Weinan Zhang, Yifei Rong, Kan Ren, Wenxin Li, Jun Wang. "Managing Risk of Bidding in Display Advertising." [[WSDM 2017]]
   - Kan Ren, Weinan Zhang, Yifei Rong, Haifeng Zhang, Yong Yu, and Jun Wang. "User response learning for directly optimizing campaign performance in display advertising." [[CIKM 2016]]
   - Haifeng Zhang, Dangyi Liu, and Wenxin Li. "General Game Playing：A Research Field for Exploring Machine Intelligence in Games." [[Journal of Software (软件学报)]]
-  - Haifeng Zhang, Dangyi Liu, and Wenxin Li. "Space-Consistent Game Equivalence Detection in General Game Playing."
+  - Haifeng Zhang, Dangyi Liu, and Wenxin Li. "Space-Consistent Game Equivalence Detection in General Game Playing." [[IJCAI 2015 workshop]]
+  - Shu Lin, Qinjian Zhang, and Haifeng Zhang. "Object representation in angry birds game." [[IJCAI 2013 workshop]] 
+  - Haifeng Zhang, Ge Gao, Wenxin Li, Cheng Zhong, Wenyuan Yu, Cheng Wang. "Botzone: A Game Playing System for Artificial Intelligence Education." [[FCES 2012]]
 
 # Projects
+  - [borzone.org], which is an online game AI competition platform widely applied in CS courses in various universities (including Peking university, Renmin University of China and Beijing University of Posts and telecommunications) and top algorithm competitions (including National Olympiad in Informatics and ACM/ICPC).
+  - [General Game Playing System], which is a general game AI designed to play various games described by Game Description Language (GDL). 
 
 # Awards
+  - Award for Scientific Research of PKU (2015)
+  - Miaozhen Academic Scholarship (2013)
+  - IBM Academic Scholarship (2011)
+  - Tencent Academic Scholarship (2010)
+  - Gold Medal of ACM/ICPC Regional Contest in Asia (Wuhan) (2009)
+  - First Prize of Peking University Mathematical Modeling Contest (2009)
 
 # Activities
+  - Teaching assistant at University College London on Multi-agent Artificial Intelligence (2019)
+  - Teaching assistant at Peking University, including Algorithms in Game AI (2018), General Game Playing (2015), Algorithm Analysis (2013, 2014), Data Structure and Algorithm (2013) and Introduction to Artificial Intelligence (2013)
+  - Designer and organizer of AI competition as a part of National Olympiad in Informatics in China (2010, 2011, 2012)
+  - Member of Peking University ACM/ICPC team (2009)
 
    [arXiv.org]: https://arxiv.org/abs/1811.05685
    [IJCAI 2018]: https://arxiv.org/abs/1707.01310
@@ -23,4 +37,9 @@ Haifeng Zhang is a research fellow at University College London working with Pro
    [WSDM 2017]: https://arxiv.org/abs/1701.02433
    [CIKM 2016]: http://discovery.ucl.ac.uk/1524035/1/wang_p679-ren.pdf
    [Journal of Software (软件学报)]: http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?flag=1&file_no=4928&journal_id=jos
+   [IJCAI 2015 workshop]: http://giga15.ru.is/giga15-paper6.pdf
+   [IJCAI 2013 workshop]: https://203.124.117.106/2013-Papers/Symposium/julyplayer.pdf
+   [FCES 2012]: http://weblidi.info.unlp.edu.ar/worldcomp2012-mirror/p2012/FEC3569.pdf
+   [botzone.org]: http://www.botzone.org
+   [General Game Playing System]: https://github.com/pkuzhf/ggpplayer
    
