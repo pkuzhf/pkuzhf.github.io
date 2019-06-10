@@ -3,7 +3,7 @@
 Haifeng Zhang is a research fellow at University College London working with Prof. Jun Wang on research ereas including reinforcement learning, game AI, game theory and computational advertising. Haifeng Zhang received his PhD supervised by Prof. Wenxin Li from Peking University in 2018. Before that, He received his B.S degree in computer science and his second bachelor degree in ecnomics from Peking University in 2012. 
 
 # Publications
-  - Haifeng Zhang, Jun Wang, Zilong Guo, Weinan Zhang, Yong Yu, Wenxin Li, “Learning to Design Transportation System in Storage Environment.” [[arXiv.org]]
+  - Haifeng Zhang, Jun Wang, Zilong Guo, Weinan Zhang, Yong Yu, Wenxin Li, “Layout Design for Intelligent Warehouse by Evolution with Fitness Approximation.” [[arXiv.org]]
   - Haifeng Zhang, Jun Wang, Zhiming Zhou, Weinan Zhang, Ying Wen, Yong Yu, Wenxin Li. “Learning to Design Games: Strategic Environments in Deep Reinforcement Learning.” [[IJCAI 2018]]
   - Yi Zhang, Houjun Huang, Haifeng Zhang, Ni Liao and Wenxin Li. “ICFVR 2017: 3rd International Competition on Finger Vein Recognition.” [[IJCB 2017]]
   - Haifeng Zhang, Weinan Zhang, Yifei Rong, Kan Ren, Wenxin Li, Jun Wang. "Managing Risk of Bidding in Display Advertising." [[WSDM 2017]]
