@@ -11,7 +11,7 @@ Haifeng Zhang is a research fellow at University College London working with Pro
   - Haifeng Zhang, Dangyi Liu, and Wenxin Li. "General Game Playing：A Research Field for Exploring Machine Intelligence in Games." [[Journal of Software (软件学报)]]
   - Haifeng Zhang, Dangyi Liu, and Wenxin Li. "Space-Consistent Game Equivalence Detection in General Game Playing." [[IJCAI 2015 workshop]]
   - Shu Lin, Qinjian Zhang, and Haifeng Zhang. "Object representation in angry birds game." [[IJCAI 2013 workshop]] 
-  - Haifeng Zhang, Ge Gao, Wenxin Li, Cheng Zhong, Wenyuan Yu, Cheng Wang. "Botzone: A Game Playing System for Artificial Intelligence Education." [[FCES 2012]]
+  - Haifeng Zhang, Ge Gao, Wenxin Li, Cheng Zhong, Wenyuan Yu, Cheng Wang. "Botzone: A Game Playing System for Artificial Intelligence Education." [[FECS 2012]]
 
 # Projects
   - [botzone.org], which is an online game AI competition platform widely applied in CS courses in various universities (including Peking university, Renmin University of China and Beijing University of Posts and telecommunications) and top algorithm competitions (including National Olympiad in Informatics and ACM/ICPC).
@@ -39,7 +39,7 @@ Haifeng Zhang is a research fellow at University College London working with Pro
    [Journal of Software (软件学报)]: http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?flag=1&file_no=4928&journal_id=jos
    [IJCAI 2015 workshop]: http://giga15.ru.is/giga15-paper6.pdf
    [IJCAI 2013 workshop]: https://203.124.117.106/2013-Papers/Symposium/julyplayer.pdf
-   [FCES 2012]: http://weblidi.info.unlp.edu.ar/worldcomp2012-mirror/p2012/FEC3569.pdf
+   [FECS 2012]: https://pdfs.semanticscholar.org/f095/78dc3eb459b8e0bba1288dc81ed65830ca63.pdf
    [botzone.org]: http://www.botzone.org
    [General Game Playing System]: https://github.com/pkuzhf/ggpplayer
    
