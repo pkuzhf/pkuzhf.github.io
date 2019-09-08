@@ -41,5 +41,5 @@ Haifeng Zhang is a research fellow at University College London working with Pro
    [IJCAI 2013 Angry Birds AI Competition]: https://203.124.117.106/2013-Papers/Symposium/julyplayer.pdf
    [FECS 2012]: https://pdfs.semanticscholar.org/f095/78dc3eb459b8e0bba1288dc81ed65830ca63.pdf
    [botzone.org]: http://www.botzone.org
-   [General Game Playing System]: https://github.com/pkuzhf/ggpplayer
+   [General Game Player]: https://github.com/pkuzhf/ggpplayer
    
