@@ -7,12 +7,12 @@ Haifeng Zhang is a research fellow at University College London working with Pro
   - **Haifeng Zhang**, Jun Wang, Zhiming Zhou, Weinan Zhang, Ying Wen, Yong Yu, Wenxin Li. “Learning to Design Games: Strategic Environments in Deep Reinforcement Learning.” [[IJCAI 2018]]
   - Haoyu Zhou, **Haifeng Zhang**, Yushan Zhou, Xinchao Wang, and Wenxin Li. "Botzone: an online multi-agent competitive platform for AI education." [[ITiCSE 2018]]
   - Yi Zhang, Houjun Huang, **Haifeng Zhang**, Ni Liao and Wenxin Li. “ICFVR 2017: 3rd International Competition on Finger Vein Recognition.” [[IJCB 2017]]
-  - Haifeng Zhang, Weinan Zhang, Yifei Rong, Kan Ren, Wenxin Li, Jun Wang. "Managing Risk of Bidding in Display Advertising." [[WSDM 2017]]
-  - Kan Ren, Weinan Zhang, Yifei Rong, Haifeng Zhang, Yong Yu, and Jun Wang. "User response learning for directly optimizing campaign performance in display advertising." [[CIKM 2016]]
-  - Haifeng Zhang, Dangyi Liu, and Wenxin Li. "General Game Playing: A Research Field for Exploring Machine Intelligence in Games." [[Journal of Software (软件学报)]]
-  - Haifeng Zhang, Dangyi Liu, and Wenxin Li. "Space-Consistent Game Equivalence Detection in General Game Playing." [[IJCAI 2015 Workshop on General Game Playing]]
-  - Shu Lin, Qinjian Zhang, and Haifeng Zhang. "Object representation in angry birds game." [[IJCAI 2013 Angry Birds AI Competition]] 
-  - Haifeng Zhang, Ge Gao, Wenxin Li, Cheng Zhong, Wenyuan Yu, Cheng Wang. "Botzone: A Game Playing System for Artificial Intelligence Education." [[FECS 2012]]
+  - **Haifeng Zhang**, Weinan Zhang, Yifei Rong, Kan Ren, Wenxin Li, Jun Wang. "Managing Risk of Bidding in Display Advertising." [[WSDM 2017]]
+  - Kan Ren, Weinan Zhang, Yifei Rong, **Haifeng Zhang**, Yong Yu, and Jun Wang. "User response learning for directly optimizing campaign performance in display advertising." [[CIKM 2016]]
+  - **Haifeng Zhang**, Dangyi Liu, and Wenxin Li. "General Game Playing: A Research Field for Exploring Machine Intelligence in Games." [[Journal of Software (软件学报)]]
+  - **Haifeng Zhang**, Dangyi Liu, and Wenxin Li. "Space-Consistent Game Equivalence Detection in General Game Playing." [[IJCAI 2015 Workshop on General Game Playing]]
+  - Shu Lin, Qinjian Zhang, and **Haifeng Zhang**. "Object representation in angry birds game." [[IJCAI 2013 Angry Birds AI Competition]] 
+  - **Haifeng Zhang**, Ge Gao, Wenxin Li, Cheng Zhong, Wenyuan Yu, Cheng Wang. "Botzone: A Game Playing System for Artificial Intelligence Education." [[FECS 2012]]
 
 # Projects
   - First author of [botzone.org], an online game AI competition platform widely applied in CS courses in various universities (including Peking university, Renmin University of China and Beijing University of Posts and telecommunications) and top algorithm competitions (including National Olympiad in Informatics and ACM/ICPC).
