@@ -4,7 +4,7 @@ Haifeng Zhang is a research fellow at University College London working with Pro
 
 # Publications
   - **Haifeng Zhang**, Weizhe Chen, Zeren Huang, Minne Li, Yaodong Yang, Weinan Zhang, Jun Wang. "Bi-level Actor-Critic for Multi-agent Coordination." [[arXiv 2019c]]
-  - Liheng Chen, Hongyi Guo, **Haifeng Zhang <sup>#</sup>**, Fei Fang, Yaoming Zhu, Ming Zhou, Qing Wang, Weinan Zhang, Yong Yu. "Signal Instructed Coordination in Team Competition." [[arXiv 2019b]]
+  - Liheng Chen, Hongyi Guo, **Haifeng Zhang<sup>#</sup>**, Fei Fang, Yaoming Zhu, Ming Zhou, Qing Wang, Weinan Zhang, Yong Yu. "Signal Instructed Coordination in Team Competition." [[arXiv 2019b]]
   - **Haifeng Zhang**, Jun Wang, Zilong Guo, Weinan Zhang, Yong Yu, Wenxin Li, "Layout Design for Intelligent Warehouse by Evolution with Fitness Approximation." [[arXiv 2019a]]
   - **Haifeng Zhang**, Jun Wang, Zhiming Zhou, Weinan Zhang, Ying Wen, Yong Yu, Wenxin Li. "Learning to Design Games: Strategic Environments in Deep Reinforcement Learning." [[IJCAI 2018]]
   - Haoyu Zhou, **Haifeng Zhang**, Yushan Zhou, Xinchao Wang, and Wenxin Li. "Botzone: an Online Multi-agent Competitive Platform for AI Education." [[ITiCSE 2018]]
