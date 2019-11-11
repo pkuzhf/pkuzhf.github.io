@@ -3,7 +3,7 @@
 Haifeng Zhang is a research fellow at University College London working with Prof. Jun Wang on research ereas including reinforcement learning, game AI, game theory and computational advertising. Haifeng Zhang received his PhD supervised by Prof. Wenxin Li from Peking University in 2018. Before that, he received his B.S degree in computer science and his second bachelor degree in ecnomics from Peking University in 2012. 
 
 # Publications
-  - **Haifeng Zhang**, Weizhe Chen, Zeren Huang, Minne Li, Yaodong Yang, Weinan Zhang, Jun Wang. "Bi-level Actor-Critic for Multi-agent Coordination." [[arXiv 2019b]]
+  - **Haifeng Zhang**, Weizhe Chen, Zeren Huang, Minne Li, Yaodong Yang, Weinan Zhang, Jun Wang. "Bi-level Actor-Critic for Multi-agent Coordination." [[AAAI 2020]]
   - Liheng Chen, Hongyi Guo, **Haifeng Zhang<sup>#</sup>**, Fei Fang, Yaoming Zhu, Ming Zhou, Qing Wang, Weinan Zhang, Yong Yu. "Signal Instructed Coordination in Team Competition." [[arXiv 2019a]]
   - **Haifeng Zhang**, Zilong Guo, Han Cai, Chris Wang, Weinan Zhang, Yong Yu, Wenxin Li, Jun Wang. "Layout Design for Intelligent Warehouse by Evolution with Fitness Approximation." [[IEEE Access]]
   - **Haifeng Zhang**, Jun Wang, Zhiming Zhou, Weinan Zhang, Ying Wen, Yong Yu, Wenxin Li. "Learning to Design Games: Strategic Environments in Deep Reinforcement Learning." [[IJCAI 2018]]
@@ -34,8 +34,8 @@ Haifeng Zhang is a research fellow at University College London working with Pro
   - Teaching assistant at Peking University, including Algorithms in Game AI (2018), General Game Playing (2015), Algorithm Analysis (2013, 2014), Data Structure and Algorithm (2013) and Introduction to Artificial Intelligence (2013)
   - Designer and organizer of AI competition as a part of National Olympiad in Informatics (NOI) in China (2010, 2011, 2012)
 
-   [arXiv 2019b]: https://arxiv.org/abs/1909.03510
-   [arXiv 2019a]: https://arxiv.org/abs/1909.04224
+   [AAAI 2020]: https://arxiv.org/abs/1909.03510
+   [arXiv 2019]: https://arxiv.org/abs/1909.04224
    [IEEE Access]: https://arxiv.org/abs/1811.05685
    [IJCAI 2018]: https://arxiv.org/abs/1707.01310
    [ITiCSE 2018]: https://dl.acm.org/citation.cfm?id=3197099
