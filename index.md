@@ -30,7 +30,7 @@ Haifeng Zhang is a research fellow at University College London working with Pro
   - First Prize of Peking University Mathematical Modeling Contest (2009)
 
 # Services
-  - PC member of AAAI 2020
+  - Reviewer for AAAI, IJCAI and IEEE Access
   - Teaching assistant at University College London on Multi-agent Artificial Intelligence (2019)
   - Teaching assistant at Peking University, including Algorithms in Game AI (2018), General Game Playing (2015), Algorithm Analysis (2013, 2014), Data Structure and Algorithm (2013) and Introduction to Artificial Intelligence (2013)
   - Designer and organizer of AI competition as a part of National Olympiad in Informatics (NOI) in China (2010, 2011, 2012)
