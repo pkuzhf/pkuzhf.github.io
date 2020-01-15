@@ -1,6 +1,6 @@
 # Bio
 
-Haifeng Zhang is a research fellow at University College London working with Prof. Jun Wang on research ereas including reinforcement learning, game AI, game theory and computational advertising. Haifeng Zhang received his PhD supervised by Prof. Wenxin Li from Peking University in 2018. Before that, he received his B.S degree in computer science and his second bachelor degree in ecnomics from Peking University in 2012. 
+Haifeng Zhang is a visiting scientist at Center on Frontiers of Computing Studies (CFCS), Peking University. His research areas include reinforcement learning, game AI, game theory and computational advertising. Before visiting CFCS, he was a research fellow at University College London working with Prof. Jun Wang. He received his PhD from Peking University in 2018, supervised by Prof. Wenxin Li, and his bachelor's degrees in computer science and economics from Peking University in 2012.
 
 # Publications
   - **Haifeng Zhang**, Weizhe Chen, Zeren Huang, Minne Li, Yaodong Yang, Weinan Zhang, Jun Wang. "Bi-level Actor-Critic for Multi-agent Coordination." [[AAAI 2020]]
