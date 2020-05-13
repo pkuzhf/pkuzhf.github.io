@@ -3,6 +3,8 @@
 Haifeng Zhang is a visiting scientist at Center on Frontiers of Computing Studies (CFCS), Peking University. His research areas include reinforcement learning, game AI, game theory and computational advertising. Before visiting CFCS, he was a research fellow at University College London working with Prof. Jun Wang. He received his PhD from Peking University in 2018, supervised by Prof. Wenxin Li, and his bachelor's degrees in computer science and economics from Peking University in 2012.
 
 # Publications
+
+  - Yunfei Liu, Yang Yang, Xianyu Chen, Jian Shen, **Haifeng Zhang**, Yong Yu. "Improving Knowledge Tracing via Pre-training Question Embeddings." [IJCAI 2020]
   - **Haifeng Zhang**, Weizhe Chen, Zeren Huang, Minne Li, Yaodong Yang, Weinan Zhang, Jun Wang. "Bi-level Actor-Critic for Multi-agent Coordination." [[AAAI 2020]]
   - Liheng Chen, Hongyi Guo, **Haifeng Zhang<sup>#</sup>**, Fei Fang, Yaoming Zhu, Ming Zhou, Qing Wang, Weinan Zhang, Yong Yu. "Signal Instructed Coordination in Team Competition." [[arXiv 2019]]
   - **Haifeng Zhang**, Zilong Guo, Han Cai, Chris Wang, Weinan Zhang, Yong Yu, Wenxin Li, Jun Wang. "Layout Design for Intelligent Warehouse by Evolution with Fitness Approximation." [[IEEE Access 2019b]]
