@@ -1,6 +1,6 @@
 # Bio
 
-Haifeng Zhang is a visiting scientist at Center on Frontiers of Computing Studies (CFCS), Peking University. His research areas include reinforcement learning, game AI, game theory and computational advertising. Before visiting CFCS, he was a research fellow at University College London working with Prof. Jun Wang. He received his PhD from Peking University in 2018, supervised by Prof. Wenxin Li, and his bachelor's degrees in computer science and economics from Peking University in 2012.
+Haifeng Zhang is an associate professor at Institute of of Automation, Chinese Academy of Sciences (CASIA). His research areas include reinforcement learning, game AI, game theory and computational advertising. Before joining in CASIA, he was a visiting scientist working with Prof. Xiaotie Deng at Center on Frontiers of Computing Studies (CFCS), Peking University. Earlier, he was a research fellow at University College London working with Prof. Jun Wang. He received his PhD from Peking University in 2018, supervised by Prof. Wenxin Li, and his bachelor's degrees in computer science and economics from Peking University in 2012.
 
 # Publications
 
@@ -14,7 +14,7 @@ Haifeng Zhang is a visiting scientist at Center on Frontiers of Computing Studie
   - Yi Zhang, Houjun Huang, **Haifeng Zhang**, Ni Liao and Wenxin Li. "ICFVR 2017: 3rd International Competition on Finger Vein Recognition." [[IJCB 2017]]
   - **Haifeng Zhang**, Weinan Zhang, Yifei Rong, Kan Ren, Wenxin Li, Jun Wang. "Managing Risk of Bidding in Display Advertising." [[WSDM 2017]]
   - Kan Ren, Weinan Zhang, Yifei Rong, **Haifeng Zhang**, Yong Yu, and Jun Wang. "User Response Learning for Directly Optimizing Campaign Performance in Display Advertising." [[CIKM 2016]]
-  - **Haifeng Zhang**, Dangyi Liu, and Wenxin Li. "General Game Playing: A Research Field for Exploring Machine Intelligence in Games." [[Journal of Software (软件学报)]]
+  - **Haifeng Zhang**, Dangyi Liu, and Wenxin Li. "General Game Playing: A Research Field for Exploring Machine Intelligence in Games." [[Journal of Software (软件学报) 2015]]
   - **Haifeng Zhang**, Dangyi Liu, and Wenxin Li. "Space-Consistent Game Equivalence Detection in General Game Playing." [[IJCAI 2015 Workshop on General Game Playing]]
   - Shu Lin, Qinjian Zhang, and **Haifeng Zhang**. "Object Representation in Angry Birds Game." [[IJCAI 2013 Angry Birds AI Competition]] 
   - **Haifeng Zhang**, Ge Gao, Wenxin Li, Cheng Zhong, Wenyuan Yu, Cheng Wang. "Botzone: A Game Playing System for Artificial Intelligence Education." [[FECS 2012]]
@@ -46,7 +46,7 @@ Haifeng Zhang is a visiting scientist at Center on Frontiers of Computing Studie
    [IJCB 2017]: https://arxiv.org/abs/1801.01262
    [WSDM 2017]: https://arxiv.org/abs/1701.02433
    [CIKM 2016]: http://discovery.ucl.ac.uk/1524035/1/wang_p679-ren.pdf
-   [Journal of Software (软件学报)]: http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?flag=1&file_no=4928&journal_id=jos
+   [Journal of Software (软件学报) 2015]: http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?flag=1&file_no=4928&journal_id=jos
    [IJCAI 2015 Workshop on General Game Playing]: http://giga15.ru.is/giga15-paper6.pdf
    [IJCAI 2013 Angry Birds AI Competition]: https://203.124.117.106/2013-Papers/Symposium/julyplayer.pdf
    [FECS 2012]: https://pdfs.semanticscholar.org/f095/78dc3eb459b8e0bba1288dc81ed65830ca63.pdf
