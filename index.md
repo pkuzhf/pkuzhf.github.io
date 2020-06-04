@@ -21,7 +21,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
   - **Haifeng Zhang**, Ge Gao, Wenxin Li, Cheng Zhong, Wenyuan Yu, Cheng Wang. "Botzone: A Game Playing System for Artificial Intelligence Education." [[FECS 2012]]
 
 # Projects
-  - First author of [botzone.org], an online game AI competition platform widely applied in CS courses in various universities (including Peking university, Renmin University of China and Beijing University of Posts and telecommunications) and top algorithm competitions (including National Olympiad in Informatics and ACM/ICPC).
+  - First author of [botzone.org], an online game AI competition platform obtaining 8000+ active users, 53000+ bots and more than 19 million game records since 2014 and widely applied by 10+ top universities (PKU, THU, etc), top algorithm competitions (NOI, ACM/ICPC) and top IT companies (Microsoft).
   - Author of [General Game Player], a general game AI designed to play any game described by the Game Description Language (GDL). 
 
 # Awards
