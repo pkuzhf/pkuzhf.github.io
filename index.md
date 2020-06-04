@@ -35,8 +35,8 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
 # Services
   - Reviewer for AAAI, IJCAI, IEEE Access and Acta Automatica Sinica
   - Co-chair for DAI 2020 Workshop on Evaluation in Multi-agent Reinforcement Learning
-  - Co-chair for IJTCS 2020 Multi-agent Reinforcement Learning Track
-  - Co-chair for IJCAI 2020 Majhong Competition
+  - Co-chair for [IJTCS 2020 Multi-agent Reinforcement Learning Track]
+  - Co-chair for [IJCAI 2020 Majhong Competition]
   - Teaching assistant at University College London on Multi-agent Artificial Intelligence (2019)
   - Teaching assistant at Peking University, including Algorithms in Game AI (2018), General Game Playing (2015), Algorithm Analysis (2013, 2014), Data Structure and Algorithm (2013) and Introduction to Artificial Intelligence (2013)
   - Designer and organizer of AI competition as a part of National Olympiad in Informatics (NOI) in China (2010, 2011, 2012)
@@ -57,4 +57,6 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
    [FECS 2012]: https://pdfs.semanticscholar.org/f095/78dc3eb459b8e0bba1288dc81ed65830ca63.pdf
    [botzone.org]: http://www.botzone.org
    [General Game Player]: https://github.com/pkuzhf/ggpplayer
-   
+   [IJTCS 2020 Multi-agent Reinforcement Learning Track]: https://econcs.pku.edu.cn/ijtcs2020/IJTCS2020.html
+   [IJCAI 2020 Majhong Competition]: https://botzone.org.cn/static/gamecontest2020a.html
+
