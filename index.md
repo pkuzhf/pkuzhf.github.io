@@ -4,6 +4,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
 
 # Publications
 
+  - 张伟楠，**张海峰**. "多智能体强化学习研究与实践." [[中国人工智能学会通讯 2020年第7期]]
   - Weinan Zhang, Kan Ren, **Haifeng Zhang**. "Machine Learning Problems and Methodologies in Computational Advertising​." [[CCCF（中国计算机学会通讯）2020]]
   - Yunfei Liu, Yang Yang, Xianyu Chen, Jian Shen, **Haifeng Zhang**, Yong Yu. "Improving Knowledge Tracing via Pre-training Question Embeddings." [IJCAI 2020]
   - **Haifeng Zhang**, Weizhe Chen, Zeren Huang, Minne Li, Yaodong Yang, Weinan Zhang, Jun Wang. "Bi-level Actor-Critic for Multi-agent Coordination." [[AAAI 2020]]
@@ -41,6 +42,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
   - Teaching assistant at Peking University, including Algorithms in Game AI (2018), General Game Playing (2015), Algorithm Analysis (2013, 2014), Data Structure and Algorithm (2013) and Introduction to Artificial Intelligence (2013)
   - Designer and organizer of AI competition as a part of National Olympiad in Informatics (NOI) in China (2010, 2011, 2012)
 
+   [中国人工智能学会通讯 2020年第7期]: http://www.caai.cn/index.php?s=/home/article/qikandetail/year/2020/month/07.html
    [CCCF（中国计算机学会通讯）2020]: https://dl.ccf.org.cn/institude/institudeDetail?id=4926584240883712
    [AAAI 2020]: https://arxiv.org/abs/1909.03510
    [arXiv 2019]: https://arxiv.org/pdf/1909.04224.pdf
