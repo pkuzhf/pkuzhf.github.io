@@ -5,7 +5,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
 # Publications
 
   - 张伟楠，**张海峰**. "多智能体强化学习研究与实践." [[中国人工智能学会通讯 2020年第7期]]
-  - 张伟楠，任侃, **张海峰**. "计算广告中的机器学习问题与方法." [[中国计算机学会通讯 2020年第5期]]
+  - 张伟楠，任侃，**张海峰**. "计算广告中的机器学习问题与方法." [[中国计算机学会通讯 2020年第5期]]
   - Yunfei Liu, Yang Yang, Xianyu Chen, Jian Shen, **Haifeng Zhang**, Yong Yu. "Improving Knowledge Tracing via Pre-training Question Embeddings." [IJCAI 2020]
   - **Haifeng Zhang**, Weizhe Chen, Zeren Huang, Minne Li, Yaodong Yang, Weinan Zhang, Jun Wang. "Bi-level Actor-Critic for Multi-agent Coordination." [[AAAI 2020]]
   - Liheng Chen, Hongyi Guo, **Haifeng Zhang<sup>#</sup>**, Fei Fang, Yaoming Zhu, Ming Zhou, Qing Wang, Weinan Zhang, Yong Yu. "Signal Instructed Coordination in Team Competition." [[arXiv 2019]]
@@ -16,7 +16,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
   - Yi Zhang, Houjun Huang, **Haifeng Zhang**, Ni Liao and Wenxin Li. "ICFVR 2017: 3rd International Competition on Finger Vein Recognition." [[IJCB 2017]]
   - **Haifeng Zhang**, Weinan Zhang, Yifei Rong, Kan Ren, Wenxin Li, Jun Wang. "Managing Risk of Bidding in Display Advertising." [[WSDM 2017]]
   - Kan Ren, Weinan Zhang, Yifei Rong, **Haifeng Zhang**, Yong Yu, and Jun Wang. "User Response Learning for Directly Optimizing Campaign Performance in Display Advertising." [[CIKM 2016]]
-  - **张海峰**, 刘当一, 李文新. "通用对弈游戏:一个探索机器游戏智能的领域." [[软件学报 2016]]
+  - **张海峰**，刘当一，李文新. "通用对弈游戏:一个探索机器游戏智能的领域." [[软件学报 2016]]
   - **Haifeng Zhang**, Dangyi Liu, and Wenxin Li. "Space-Consistent Game Equivalence Detection in General Game Playing." [[IJCAI 2015 Workshop on General Game Playing]]
   - Shu Lin, Qinjian Zhang, and **Haifeng Zhang**. "Object Representation in Angry Birds Game." [[IJCAI 2013 Angry Birds AI Competition]] 
   - **Haifeng Zhang**, Ge Gao, Wenxin Li, Cheng Zhong, Wenyuan Yu, Cheng Wang. "Botzone: A Game Playing System for Artificial Intelligence Education." [[FECS 2012]]
