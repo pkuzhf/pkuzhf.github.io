@@ -5,7 +5,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
 # Publications
 
   - 张伟楠，**张海峰**. "多智能体强化学习研究与实践." [[中国人工智能学会通讯 2020年第7期]]
-  - Weinan Zhang, Kan Ren, **Haifeng Zhang**. "Machine Learning Problems and Methodologies in Computational Advertising​." [[CCCF（中国计算机学会通讯）2020]]
+  - 张伟楠，任侃, **张海峰**. "计算广告中的机器学习问题与方法." [[中国计算机学会通讯 2020年第5期]]
   - Yunfei Liu, Yang Yang, Xianyu Chen, Jian Shen, **Haifeng Zhang**, Yong Yu. "Improving Knowledge Tracing via Pre-training Question Embeddings." [IJCAI 2020]
   - **Haifeng Zhang**, Weizhe Chen, Zeren Huang, Minne Li, Yaodong Yang, Weinan Zhang, Jun Wang. "Bi-level Actor-Critic for Multi-agent Coordination." [[AAAI 2020]]
   - Liheng Chen, Hongyi Guo, **Haifeng Zhang<sup>#</sup>**, Fei Fang, Yaoming Zhu, Ming Zhou, Qing Wang, Weinan Zhang, Yong Yu. "Signal Instructed Coordination in Team Competition." [[arXiv 2019]]
@@ -16,7 +16,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
   - Yi Zhang, Houjun Huang, **Haifeng Zhang**, Ni Liao and Wenxin Li. "ICFVR 2017: 3rd International Competition on Finger Vein Recognition." [[IJCB 2017]]
   - **Haifeng Zhang**, Weinan Zhang, Yifei Rong, Kan Ren, Wenxin Li, Jun Wang. "Managing Risk of Bidding in Display Advertising." [[WSDM 2017]]
   - Kan Ren, Weinan Zhang, Yifei Rong, **Haifeng Zhang**, Yong Yu, and Jun Wang. "User Response Learning for Directly Optimizing Campaign Performance in Display Advertising." [[CIKM 2016]]
-  - **Haifeng Zhang**, Dangyi Liu, and Wenxin Li. "General Game Playing: A Research Field for Exploring Machine Intelligence in Games." [[Journal of Software (软件学报) 2015]]
+  - **张海峰**, 刘当一, 李文新. "通用对弈游戏:一个探索机器游戏智能的领域." [[软件学报 2016]]
   - **Haifeng Zhang**, Dangyi Liu, and Wenxin Li. "Space-Consistent Game Equivalence Detection in General Game Playing." [[IJCAI 2015 Workshop on General Game Playing]]
   - Shu Lin, Qinjian Zhang, and **Haifeng Zhang**. "Object Representation in Angry Birds Game." [[IJCAI 2013 Angry Birds AI Competition]] 
   - **Haifeng Zhang**, Ge Gao, Wenxin Li, Cheng Zhong, Wenyuan Yu, Cheng Wang. "Botzone: A Game Playing System for Artificial Intelligence Education." [[FECS 2012]]
@@ -43,7 +43,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
   - Designer and organizer of AI competition as a part of National Olympiad in Informatics (NOI) in China (2010, 2011, 2012)
 
    [中国人工智能学会通讯 2020年第7期]: http://www.caai.cn/index.php?s=/home/article/qikandetail/year/2020/month/07.html
-   [CCCF（中国计算机学会通讯）2020]: https://dl.ccf.org.cn/institude/institudeDetail?id=4926584240883712
+   [中国计算机学会通讯 2020年第5期]: https://dl.ccf.org.cn/institude/institudeDetail?id=4926584240883712
    [AAAI 2020]: https://arxiv.org/abs/1909.03510
    [arXiv 2019]: https://arxiv.org/pdf/1909.04224.pdf
    [IEEE Access 2019b]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8901128
@@ -53,7 +53,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
    [IJCB 2017]: https://arxiv.org/abs/1801.01262
    [WSDM 2017]: https://arxiv.org/abs/1701.02433
    [CIKM 2016]: http://discovery.ucl.ac.uk/1524035/1/wang_p679-ren.pdf
-   [Journal of Software (软件学报) 2015]: http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?flag=1&file_no=4928&journal_id=jos
+   [软件学报 2016]: http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?flag=1&file_no=4928&journal_id=jos
    [IJCAI 2015 Workshop on General Game Playing]: http://giga15.ru.is/giga15-paper6.pdf
    [IJCAI 2013 Angry Birds AI Competition]: https://203.124.117.106/2013-Papers/Symposium/julyplayer.pdf
    [FECS 2012]: https://pdfs.semanticscholar.org/f095/78dc3eb459b8e0bba1288dc81ed65830ca63.pdf
