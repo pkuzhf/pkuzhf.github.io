@@ -7,7 +7,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
   - Yali Du, Bo Liu, Vincent Moens, Ziqi Liu, Zhicheng Ren, Jun Wang, Xu Chen, **Haifeng Zhang<sup>#</sup>**. "Learning Correlated Communication Topology in Multi-Agent Reinforcement Learning." [[AAMAS 2021]]
   - 张伟楠，**张海峰**. "多智能体强化学习研究与实践." [[中国人工智能学会通讯 2020年第7期]]
   - 张伟楠，任侃，**张海峰**. "计算广告中的机器学习问题与方法." [[中国计算机学会通讯 2020年第5期]]
-  - Yunfei Liu, Yang Yang, Xianyu Chen, Jian Shen, **Haifeng Zhang**, Yong Yu. "Improving Knowledge Tracing via Pre-training Question Embeddings." [IJCAI 2020]
+  - Yunfei Liu, Yang Yang, Xianyu Chen, Jian Shen, **Haifeng Zhang**, Yong Yu. "Improving Knowledge Tracing via Pre-training Question Embeddings." [[IJCAI 2020]]
   - **Haifeng Zhang**, Weizhe Chen, Zeren Huang, Minne Li, Yaodong Yang, Weinan Zhang, Jun Wang. "Bi-level Actor-Critic for Multi-agent Coordination." [[AAAI 2020]]
   - Liheng Chen, Hongyi Guo, **Haifeng Zhang<sup>#</sup>**, Fei Fang, Yaoming Zhu, Ming Zhou, Qing Wang, Weinan Zhang, Yong Yu. "Signal Instructed Coordination in Team Competition." [[arXiv 2019]]
   - **Haifeng Zhang**, Zilong Guo, Han Cai, Chris Wang, Weinan Zhang, Yong Yu, Wenxin Li, Jun Wang. "Layout Design for Intelligent Warehouse by Evolution with Fitness Approximation." [[IEEE Access 2019b]]
@@ -46,6 +46,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
    [AAMAS 2021]: http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p456.pdf
    [中国人工智能学会通讯 2020年第7期]: http://www.caai.cn/index.php?s=/home/article/qikandetail/year/2020/month/07.html
    [中国计算机学会通讯 2020年第5期]: https://dl.ccf.org.cn/institude/institudeDetail?id=4926584240883712
+   [IJCAI 2020]: https://www.ijcai.org/Proceedings/2020/0219.pdf
    [AAAI 2020]: https://arxiv.org/abs/1909.03510
    [arXiv 2019]: https://arxiv.org/pdf/1909.04224.pdf
    [IEEE Access 2019b]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8901128
