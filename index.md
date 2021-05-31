@@ -66,4 +66,4 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
    [IJTCS 2020 Multi-agent Reinforcement Learning Track]: https://econcs.pku.edu.cn/ijtcs2020/IJTCS2020.html
    [IJCAI 2020 Majhong Competition]: https://botzone.org.cn/static/gamecontest2020a.html
    [DAI 2020 Workshop on Evaluation in Multi-agent Reinforcement Learning]: https://marl-evaluation.github.io/
-   [Group Decision Intelligence Lab] marl.ia.ac.cn
+   [Group Decision Intelligence Lab]: http://marl.ia.ac.cn
