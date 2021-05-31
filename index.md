@@ -1,9 +1,10 @@
 # Bio
 
-Haifeng Zhang is an associate professor at Institute of of Automation, Chinese Academy of Sciences (CASIA). His research areas include reinforcement learning, game AI, game theory and computational advertising. Before joining CASIA, he was a visiting scientist working with Prof. Xiaotie Deng at Center on Frontiers of Computing Studies (CFCS), Peking University. Earlier, he was a research fellow at University College London working with Prof. Jun Wang. He received his PhD from Peking University in 2018, supervised by Prof. Wenxin Li, and his bachelor's degrees in computer science and economics from Peking University in 2012.
+Haifeng Zhang is an associate professor at Institute of of Automation, Chinese Academy of Sciences (CASIA), leading the [Group Decision Intelligence Lab]. His research areas include reinforcement learning, game AI, game theory and computational advertising. Before joining CASIA, he was a visiting scientist working with Prof. Xiaotie Deng at Center on Frontiers of Computing Studies (CFCS), Peking University. Earlier, he was a research fellow at University College London working with Prof. Jun Wang. He received his PhD from Peking University in 2018, supervised by Prof. Wenxin Li, and his bachelor's degrees in computer science and economics from Peking University in 2012.
 
 # Publications
 
+  - Yali Du, Xue Yan, Xu Chen, **Haifeng Zhang<sup>#</sup>**, Jun Wang. "Estimating α-Rank from A Few Entries with Low Rank Matrix Completion." [ICML 2021]
   - Yali Du, Bo Liu, Vincent Moens, Ziqi Liu, Zhicheng Ren, Jun Wang, Xu Chen, **Haifeng Zhang<sup>#</sup>**. "Learning Correlated Communication Topology in Multi-Agent Reinforcement Learning." [[AAMAS 2021]]
   - 张伟楠，**张海峰**. "多智能体强化学习研究与实践." [[中国人工智能学会通讯 2020年第7期]]
   - 张伟楠，任侃，**张海峰**. "计算广告中的机器学习问题与方法." [[中国计算机学会通讯 2020年第5期]]
@@ -65,3 +66,4 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
    [IJTCS 2020 Multi-agent Reinforcement Learning Track]: https://econcs.pku.edu.cn/ijtcs2020/IJTCS2020.html
    [IJCAI 2020 Majhong Competition]: https://botzone.org.cn/static/gamecontest2020a.html
    [DAI 2020 Workshop on Evaluation in Multi-agent Reinforcement Learning]: https://marl-evaluation.github.io/
+   [Group Decision Intelligence Lab] marl.ia.ac.cn
