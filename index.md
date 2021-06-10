@@ -4,7 +4,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
 
 # Publications
 
-  - Yali Du, Xue Yan, Xu Chen, **Haifeng Zhang<sup>#</sup>**, Jun Wang. "Estimating α-Rank from A Few Entries with Low Rank Matrix Completion." [ICML 2021]
+  - Yali Du, Xue Yan, Xu Chen, Jun Wang, **Haifeng Zhang<sup>#</sup>**. "Estimating α-Rank from A Few Entries with Low Rank Matrix Completion." [ICML 2021]
   - Yali Du, Bo Liu, Vincent Moens, Ziqi Liu, Zhicheng Ren, Jun Wang, Xu Chen, **Haifeng Zhang<sup>#</sup>**. "Learning Correlated Communication Topology in Multi-Agent Reinforcement Learning." [[AAMAS 2021]]
   - 张伟楠，**张海峰**. "多智能体强化学习研究与实践." [[中国人工智能学会通讯 2020年第7期]]
   - 张伟楠，任侃，**张海峰**. "计算广告中的机器学习问题与方法." [[中国计算机学会通讯 2020年第5期]]
