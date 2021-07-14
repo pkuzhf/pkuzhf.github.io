@@ -24,7 +24,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
   - **Haifeng Zhang**, Ge Gao, Wenxin Li, Cheng Zhong, Wenyuan Yu, Cheng Wang. "Botzone: A Game Playing System for Artificial Intelligence Education." [[FECS 2012]]
 
 # Projects
-  - Founder of Jidi ([www.jidiai.cn]), an online AI competition and evaluation platform. 
+  - Founder of [Jidi], an online AI competition and evaluation platform. 
   - First author of [botzone.org], an online game AI competition platform obtaining 8000+ active users, 58000+ bots and more than 19 million game records since 2014 and widely applied by 10+ top universities (PKU, THU, etc), top algorithm competitions (NOI, ACM/ICPC) and top IT companies (Microsoft).
   - Author of [General Game Player], a general game AI designed to play any game described by the Game Description Language (GDL). 
 
@@ -62,7 +62,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
    [IJCAI 2015 Workshop on General Game Playing]: http://giga15.ru.is/giga15-paper6.pdf
    [IJCAI 2013 Angry Birds AI Competition]: https://203.124.117.106/2013-Papers/Symposium/julyplayer.pdf
    [FECS 2012]: https://pdfs.semanticscholar.org/f095/78dc3eb459b8e0bba1288dc81ed65830ca63.pdf
-   [www.jidiai.cn]: http://www.jidiai.cn
+   [Jidi]: http://www.jidiai.cn
    [botzone.org]: http://www.botzone.org
    [General Game Player]: https://github.com/pkuzhf/ggpplayer
    [IJTCS 2020 Multi-agent Reinforcement Learning Track]: https://econcs.pku.edu.cn/ijtcs2020/IJTCS2020.html
