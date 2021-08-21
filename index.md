@@ -1,9 +1,10 @@
 # Bio
 
-Haifeng Zhang is an associate professor at Institute of of Automation, Chinese Academy of Sciences (CASIA), leading the [Collective Decision Intelligence Lab]. His research areas include reinforcement learning, game AI, game theory and computational advertising. Before joining CASIA, he was a visiting scientist working with Prof. Xiaotie Deng at Center on Frontiers of Computing Studies (CFCS), Peking University. Earlier, he was a research fellow at University College London working with Prof. Jun Wang. He received his PhD from Peking University in 2018, supervised by Prof. Wenxin Li, and his bachelor's degrees in computer science and economics from Peking University in 2012.
+Haifeng Zhang is an associate professor at Institute of of Automation, Chinese Academy of Sciences (CASIA), leading the [Collective Decision Intelligence Lab]. His research areas include reinforcement learning, game AI, game theory and computational advertising. Before joining CASIA, he was a visiting scientist working with Prof. Xiaotie Deng at Center on Frontiers of Computing Studies (CFCS), Peking University. Earlier, he was a research fellow at University College London working with Prof. Jun Wang. He received his PhD from Peking University, supervised by Prof. Wenxin Li, and his bachelor's degrees in computer science and economics from Peking University.
 
 # Publications
 
+  - Qirui Mi, Ning Yang, Haifeng Zhang, Haijun Zhang, Jun Wang. "Joint Caching and Transmission in the Mobile Edge Network: An Multi-Agent Learning Approach." [Globecom 2021]
   - Yali Du, Xue Yan, Xu Chen, Jun Wang, **Haifeng Zhang**. "Estimating α-Rank from A Few Entries with Low Rank Matrix Completion." [[ICML 2021]]
   - Yali Du, Bo Liu, Vincent Moens, Ziqi Liu, Zhicheng Ren, Jun Wang, Xu Chen, **Haifeng Zhang**. "Learning Correlated Communication Topology in Multi-Agent Reinforcement Learning." [[AAMAS 2021]]
   - 张伟楠，**张海峰**. "多智能体强化学习研究与实践." [[中国人工智能学会通讯 2020年第7期]]
