@@ -4,6 +4,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
 
 # Publications
 
+  - Jakub Grudzien Kuba, Muning Wen, Yaodong Yang, Linghui Meng, Shangding Gu, **Haifeng Zhang**, David Henry Mguni, Jun Wang. "Settling the Variance of Multi-Agent Policy Gradients." [NeurIPS 2021]
   - Qirui Mi, Ning Yang, **Haifeng Zhang**, Haijun Zhang, Jun Wang. "Joint Caching and Transmission in the Mobile Edge Network: An Multi-Agent Learning Approach." [Globecom 2021]
   - Yali Du, Xue Yan, Xu Chen, Jun Wang, **Haifeng Zhang**. "Estimating α-Rank from A Few Entries with Low Rank Matrix Completion." [[ICML 2021]]
   - Yali Du, Bo Liu, Vincent Moens, Ziqi Liu, Zhicheng Ren, Jun Wang, Xu Chen, **Haifeng Zhang**. "Learning Correlated Communication Topology in Multi-Agent Reinforcement Learning." [[AAMAS 2021]]
@@ -46,6 +47,7 @@ Haifeng Zhang is an associate professor at Institute of of Automation, Chinese A
   - Teaching assistant at Peking University, including Algorithms in Game AI (2018), General Game Playing (2015), Algorithm Analysis (2013, 2014), Data Structure and Algorithm (2013) and Introduction to Artificial Intelligence (2013)
   - Designer and organizer of AI competition as a part of National Olympiad in Informatics (NOI) in China (2010, 2011, 2012)
 
+   [NeurIPS 2021]: https://arxiv.org/pdf/2108.08612.pdf
    [ICML 2021]: http://proceedings.mlr.press/v139/du21e/du21e.pdf
    [AAMAS 2021]: http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p456.pdf
    [中国人工智能学会通讯 2020年第7期]: http://www.caai.cn/index.php?s=/home/article/qikandetail/year/2020/month/07.html
