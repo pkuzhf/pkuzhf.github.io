@@ -4,6 +4,7 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
 
 # Publications
 
+  - Chenguang Wang, Yaodong Yang, Oliver Slumbers, Congying Han, Tiande Guo, **Haifeng Zhang**, Jun Wang. "A Game-theoretic Approach for Improving Generalization Ability of TSP Solvers." [arXiv 2021]
   - Jakub Grudzien Kuba, Muning Wen, Yaodong Yang, Linghui Meng, Shangding Gu, **Haifeng Zhang**, David Henry Mguni, Jun Wang. "Settling the Variance of Multi-Agent Policy Gradients." [[NeurIPS 2021]]
   - Qirui Mi, Ning Yang, **Haifeng Zhang**, Haijun Zhang, Jun Wang. "Joint Caching and Transmission in the Mobile Edge Network: An Multi-Agent Learning Approach." [Globecom 2021]
   - Yali Du, Xue Yan, Xu Chen, Jun Wang, **Haifeng Zhang**. "Estimating α-Rank from A Few Entries with Low Rank Matrix Completion." [[ICML 2021]]
