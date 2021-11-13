@@ -5,6 +5,7 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
 # Publications
 
   - Chenguang Wang, Yaodong Yang, Oliver Slumbers, Congying Han, Tiande Guo, **Haifeng Zhang**, Jun Wang. "A Game-theoretic Approach for Improving Generalization Ability of TSP Solvers." [[arXiv 2021]]
+  - Liheng Chen, Hongyi Guo, **Haifeng Zhang**, Fei Fang, Yaoming Zhu, Ming Zhou, Qing Wang, Weinan Zhang, Yong Yu. "Signal Instructed Coordination in Team Competition." [[DAI 2021]]
   - Jakub Grudzien Kuba, Muning Wen, Yaodong Yang, Linghui Meng, Shangding Gu, **Haifeng Zhang**, David Henry Mguni, Jun Wang. "Settling the Variance of Multi-Agent Policy Gradients." [[NeurIPS 2021]]
   - Qirui Mi, Ning Yang, **Haifeng Zhang**, Haijun Zhang, Jun Wang. "Joint Caching and Transmission in the Mobile Edge Network: An Multi-Agent Learning Approach." [Globecom 2021]
   - Yali Du, Xue Yan, Xu Chen, Jun Wang, **Haifeng Zhang**. "Estimating α-Rank from A Few Entries with Low Rank Matrix Completion." [[ICML 2021]]
@@ -13,7 +14,6 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
   - 张伟楠，任侃，**张海峰**. "计算广告中的机器学习问题与方法." [[中国计算机学会通讯 2020年第5期]]
   - Yunfei Liu, Yang Yang, Xianyu Chen, Jian Shen, **Haifeng Zhang**, Yong Yu. "Improving Knowledge Tracing via Pre-training Question Embeddings." [[IJCAI 2020]]
   - **Haifeng Zhang**, Weizhe Chen, Zeren Huang, Minne Li, Yaodong Yang, Weinan Zhang, Jun Wang. "Bi-level Actor-Critic for Multi-agent Coordination." [[AAAI 2020]]
-  - Liheng Chen, Hongyi Guo, **Haifeng Zhang**, Fei Fang, Yaoming Zhu, Ming Zhou, Qing Wang, Weinan Zhang, Yong Yu. "Signal Instructed Coordination in Team Competition." [[arXiv 2019]]
   - **Haifeng Zhang**, Zilong Guo, Han Cai, Chris Wang, Weinan Zhang, Yong Yu, Wenxin Li, Jun Wang. "Layout Design for Intelligent Warehouse by Evolution with Fitness Approximation." [[IEEE Access 2019b]]
   - Xinyuan Zhou, Peng Wu, **Haifeng Zhang**, Weihong Guo, Yuanchang Liu. "Learn to Navigate: Cooperative Path Planning for Unmanned Surface Vehicles Using Deep Reinforcement Learning." [[IEEE Access 2019a]]
   - **Haifeng Zhang**, Jun Wang, Zhiming Zhou, Weinan Zhang, Ying Wen, Yong Yu, Wenxin Li. "Learning to Design Games: Strategic Environments in Deep Reinforcement Learning." [[IJCAI 2018]]
@@ -50,6 +50,7 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
   - Designer and organizer of AI competition as a part of National Olympiad in Informatics (NOI) in China (2010, 2011, 2012)
 
    [arXiv 2021]: https://arxiv.org/pdf/2110.15105.pdf
+   [DAI 2021]: https://arxiv.org/pdf/1909.04224.pdf
    [NeurIPS 2021]: https://arxiv.org/pdf/2108.08612.pdf
    [ICML 2021]: http://proceedings.mlr.press/v139/du21e/du21e.pdf
    [AAMAS 2021]: http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p456.pdf
@@ -57,7 +58,6 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
    [中国计算机学会通讯 2020年第5期]: https://dl.ccf.org.cn/institude/institudeDetail?id=4926584240883712
    [IJCAI 2020]: https://www.ijcai.org/Proceedings/2020/0219.pdf
    [AAAI 2020]: https://arxiv.org/abs/1909.03510
-   [arXiv 2019]: https://arxiv.org/pdf/1909.04224.pdf
    [IEEE Access 2019b]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8901128
    [IEEE Access 2019a]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8897592
    [IJCAI 2018]: https://arxiv.org/abs/1707.01310
