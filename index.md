@@ -4,7 +4,8 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
 
 # Publications
 
-  - Chenguang Wang, Yaodong Yang, Oliver Slumbers, Congying Han, Tiande Guo, **Haifeng Zhang**, Jun Wang. "A Game-theoretic Approach for Improving Generalization Ability of TSP Solvers." [[arXiv 2021]]
+  - Linghui Meng, Muning Wen, Yaodong Yang, Chenyang Le, Xiyun Li, Weinan Zhang, Ying Wen, **Haifeng Zhang**, Jun Wang, Bo Xu. "Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks." [[arXiv 2021b]]
+  - Chenguang Wang, Yaodong Yang, Oliver Slumbers, Congying Han, Tiande Guo, **Haifeng Zhang**, Jun Wang. "A Game-theoretic Approach for Improving Generalization Ability of TSP Solvers." [[arXiv 2021a]]
   - Liheng Chen, Hongyi Guo, **Haifeng Zhang**, Fei Fang, Yaoming Zhu, Ming Zhou, Qing Wang, Weinan Zhang, Yong Yu. "Signal Instructed Coordination in Team Competition." [[DAI 2021]]
   - Jakub Grudzien Kuba, Muning Wen, Yaodong Yang, Linghui Meng, Shangding Gu, **Haifeng Zhang**, David Henry Mguni, Jun Wang. "Settling the Variance of Multi-Agent Policy Gradients." [[NeurIPS 2021]]
   - Qirui Mi, Ning Yang, **Haifeng Zhang**, Haijun Zhang, Jun Wang. "Joint Caching and Transmission in the Mobile Edge Network: An Multi-Agent Learning Approach." [Globecom 2021]
@@ -49,7 +50,8 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
   - Teaching assistant at Peking University, including Algorithms in Game AI (2018), General Game Playing (2015), Algorithm Analysis (2013, 2014), Data Structure and Algorithm (2013) and Introduction to Artificial Intelligence (2013)
   - Designer and organizer of AI competition as a part of National Olympiad in Informatics (NOI) in China (2010, 2011, 2012)
 
-   [arXiv 2021]: https://arxiv.org/pdf/2110.15105.pdf
+   [arXiv 2021b]: https://arxiv.org/abs/2112.02845.pdf
+   [arXiv 2021a]: https://arxiv.org/pdf/2110.15105.pdf
    [DAI 2021]: https://arxiv.org/pdf/1909.04224.pdf
    [NeurIPS 2021]: https://arxiv.org/pdf/2108.08612.pdf
    [ICML 2021]: http://proceedings.mlr.press/v139/du21e/du21e.pdf
