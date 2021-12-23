@@ -4,6 +4,7 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
 
 # Publications
 
+  - Jingqing Ruan, Yali Du, Xuantang Xiong, Dengpeng Xing, Xiyun Li, Linghui Meng, **Haifeng Zhang**, Jun Wang and Bo Xu. "GCS: Graph-Based Coordination Strategy for Multi-Agent Reinforcement Learning." [AAMAS 2022]
   - Xue Yan, Yali Du, Binxin Ru, Jun Wang, **Haifeng Zhang**, Xu Chen. "Learning to Identify Top Elo Ratings as A Dueling Bandits Problem." [AAAI 2022]
   - Linghui Meng, Muning Wen, Yaodong Yang, Chenyang Le, Xiyun Li, Weinan Zhang, Ying Wen, **Haifeng Zhang**, Jun Wang, Bo Xu. "Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks." [[arXiv 2021b]]
   - Chenguang Wang, Yaodong Yang, Oliver Slumbers, Congying Han, Tiande Guo, **Haifeng Zhang**, Jun Wang. "A Game-theoretic Approach for Improving Generalization Ability of TSP Solvers." [[arXiv 2021a]]
