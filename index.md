@@ -10,7 +10,7 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
   - Chenguang Wang, Yaodong Yang, Oliver Slumbers, Congying Han, Tiande Guo, **Haifeng Zhang**, Jun Wang. "A Game-theoretic Approach for Improving Generalization Ability of TSP Solvers." [[arXiv 2021a]]
   - Liheng Chen, Hongyi Guo, **Haifeng Zhang**, Fei Fang, Yaoming Zhu, Ming Zhou, Qing Wang, Weinan Zhang, Yong Yu. "Signal Instructed Coordination in Team Competition." [[DAI 2021]]
   - Jakub Grudzien Kuba, Muning Wen, Yaodong Yang, Linghui Meng, Shangding Gu, **Haifeng Zhang**, David Henry Mguni, Jun Wang. "Settling the Variance of Multi-Agent Policy Gradients." [[NeurIPS 2021]]
-  - Qirui Mi, Ning Yang, **Haifeng Zhang**, Haijun Zhang, Jun Wang. "Joint Caching and Transmission in the Mobile Edge Network: An Multi-Agent Learning Approach." [Globecom 2021]
+  - Qirui Mi, Ning Yang, **Haifeng Zhang**, Haijun Zhang, Jun Wang. "Joint Caching and Transmission in the Mobile Edge Network: An Multi-Agent Learning Approach." [[Globecom 2021]]
   - Yali Du, Xue Yan, Xu Chen, Jun Wang, **Haifeng Zhang**. "Estimating α-Rank from A Few Entries with Low Rank Matrix Completion." [[ICML 2021]]
   - Yali Du, Bo Liu, Vincent Moens, Ziqi Liu, Zhicheng Ren, Jun Wang, Xu Chen, **Haifeng Zhang**. "Learning Correlated Communication Topology in Multi-Agent Reinforcement Learning." [[AAMAS 2021]]
   - 张伟楠，**张海峰**. "多智能体强化学习研究与实践." [[中国人工智能学会通讯 2020年第7期]]
@@ -56,6 +56,7 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
    [arXiv 2021a]: https://arxiv.org/pdf/2110.15105.pdf
    [DAI 2021]: https://arxiv.org/pdf/1909.04224.pdf
    [NeurIPS 2021]: https://arxiv.org/pdf/2108.08612.pdf
+   [Globecom 2021]: https://ieeexplore.ieee.org/document/9685590
    [ICML 2021]: http://proceedings.mlr.press/v139/du21e/du21e.pdf
    [AAMAS 2021]: http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p456.pdf
    [中国人工智能学会通讯 2020年第7期]: http://www.caai.cn/index.php?s=/home/article/qikandetail/year/2020/month/07.html
