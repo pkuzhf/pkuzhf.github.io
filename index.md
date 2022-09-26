@@ -1,6 +1,6 @@
 # Bio
 
-Haifeng Zhang is an associate professor at Institute of Automation, Chinese Academy of Sciences (CASIA), leading the [Collective Decision Intelligence Lab]. His research areas include reinforcement learning, game AI, game theory and computational advertising. Before joining CASIA, he was a visiting scientist working with Prof. Xiaotie Deng at Center on Frontiers of Computing Studies (CFCS), Peking University. Earlier, he was a research fellow at University College London working with Prof. Jun Wang. He received his PhD from Peking University, supervised by Prof. Wenxin Li, and his bachelor's degrees in computer science and economics from Peking University.
+Haifeng Zhang is an associate professor at Institute of Automation, Chinese Academy of Sciences (CASIA), leading the [Collective Decision Intelligence Lab]. His research areas include reinforcement learning, game AI, game theory and computational advertising. Before joining CASIA, he was a visiting scientist at Center on Frontiers of Computing Studies (CFCS), Peking University. Earlier, he was a research fellow at University College London. He received his PhD in computer science and his bachelor's degrees in computer science and economics from Peking University.
 
 # Publications
 
@@ -63,7 +63,7 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
    [中国人工智能学会通讯 2020年第7期]: http://www.caai.cn/index.php?s=/home/article/qikandetail/year/2020/month/07.html
    [中国计算机学会通讯 2020年第5期]: https://dl.ccf.org.cn/institude/institudeDetail?id=4926584240883712
    [IJCAI 2020]: https://www.ijcai.org/Proceedings/2020/0219.pdf
-   [AAAI 2020]: https://arxiv.org/abs/1909.03510
+   [AAAI 2020]: https://ojs.aaai.org/index.php/AAAI/article/view/6226
    [IEEE Access 2019b]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8901128
    [IEEE Access 2019a]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8897592
    [IJCAI 2018]: https://arxiv.org/abs/1707.01310
