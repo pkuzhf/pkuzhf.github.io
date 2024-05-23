@@ -4,7 +4,13 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
 
 # Publications
 
-  - Linghui Meng, Muning Wen, Chenyang Le, Xiyun Li, Dengpeng Xing, Weinan Zhang, Ying Wen, **Haifeng Zhang**, Jun Wang, Yaodong Yang, Bo Xu. "Offline Multi-agent Decision Transformer." [[Machine Intelligence Research 2022]]
+  - Chen Wang, Yan Song, Shuai Wu, Sa Wu, Ruizhi Zhang, Shu Lin, **Haifeng Zhang**. "AI-Olympics: Exploring the Generalization of Agents through Open Competitions." [[IJCAI 2024]]
+  - Yongcheng Zeng, Guoqing Liu, Weiyu Ma, Ning Yang, **Haifeng Zhang**, Jun Wang. "Token-level Direct Preference Optimization." [[ICML 2024]]
+  - Yan Song, He Jiang, **Haifeng Zhang**, Zheng Tian, Weinan Zhang, Jun Wang. "Boosting Studies of Multi-Agent Reinforcement Learning on Google Research Football Environment: the Past, Present, and Future." [[AAMAS 2024b]]
+  - Qirui Mi, Siyu Xia, Yan Song, **Haifeng Zhang**, Shenghao Zhu, Jun Wang. "TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning." [[AAMAS 2024a]]
+  - Xue Yan, Jiaxian Guo, Xingzhou Lou, Jun Wang, **Haifeng Zhang**, Yali Du. "An Efficient End-to-End Training Approach for Zero-Shot Human-AI Coordination." [[NeurIPS 2023]]
+  - Yan Song, He Jiang, Zheng Tian, **Haifeng Zhang**, Yingping Zhang, Jiangcheng Zhu, Zonghong Dai, Weinan Zhang, Jun Wang. "An Empirical Study on Google Research Football Multi-agent Scenarios." [[Machine Intelligence Research 2022b]]
+  - Linghui Meng, Muning Wen, Chenyang Le, Xiyun Li, Dengpeng Xing, Weinan Zhang, Ying Wen, **Haifeng Zhang**, Jun Wang, Yaodong Yang, Bo Xu. "Offline Multi-agent Decision Transformer." [[Machine Intelligence Research 2022a]]
   - Bo Liu, Xidong Feng, Jie Ren, Luo Mai, Rui Zhu, **Haifeng Zhang**, Jun Wang, Yaodong Yang. "A Theoretical Understanding of Gradient Bias in Meta-Reinforcement Learning." [[NeurIPS 2022]]
   - Jingqing Ruan, Yali Du, Xuantang Xiong, Dengpeng Xing, Xiyun Li, Linghui Meng, **Haifeng Zhang**, Jun Wang and Bo Xu. "GCS: Graph-Based Coordination Strategy for Multi-Agent Reinforcement Learning." [[AAMAS 2022]]
   - Xue Yan, Yali Du, Binxin Ru, Jun Wang, **Haifeng Zhang**, Xu Chen. "Learning to Identify Top Elo Ratings as A Dueling Bandits Problem." [[AAAI 2022]]
@@ -53,7 +59,13 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
   - Teaching assistant at Peking University, including Algorithms in Game AI (2018), General Game Playing (2015), Algorithm Analysis (2013, 2014), Data Structure and Algorithm (2013) and Introduction to Artificial Intelligence (2013)
   - Designer and organizer of AI competition as a part of National Olympiad in Informatics (NOI) in China (2010, 2011, 2012)
 
-   [Machine Intelligence Research 2022]: https://arxiv.org/abs/2112.02845.pdf
+   [IJCAI 2024]
+   [ICML 2024]
+   [AAMAS 2024b]: https://arxiv.org/abs/2309.12951
+   [AAMAS 2024a]: https://arxiv.org/abs/2309.16307
+   [NeurIPS 2023]: https://openreview.net/pdf?id=6ePsuwXUwf
+   [Machine Intelligence Research 2022b]: https://arxiv.org/ftp/arxiv/papers/2305/2305.09458.pdf
+   [Machine Intelligence Research 2022a]: https://arxiv.org/abs/2112.02845.pdf
    [NeurIPS 2022]: https://arxiv.org/abs/2112.15400
    [AAMAS 2022]: https://arxiv.org/pdf/2201.06257.pdf
    [AAAI 2022]: https://ojs.aaai.org/index.php/AAAI/article/view/20860
