@@ -6,7 +6,7 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
 
   - Chen Wang, Yan Song, Shuai Wu, Sa Wu, Ruizhi Zhang, Shu Lin, **Haifeng Zhang**. "AI-Olympics: Exploring the Generalization of Agents through Open Competitions." [IJCAI 2024]
   - Yongcheng Zeng, Guoqing Liu, Weiyu Ma, Ning Yang, **Haifeng Zhang**, Jun Wang. "Token-level Direct Preference Optimization." [ICML 2024]
-  - Xinyu Cui, Boai Sun, Yi Zhu, Ning Yang, **Haifeng Zhang**, Weicheng Cui, Dixia Fan, Jun Wang. “Enhancing efficiency and propulsion in bio-mimetic robotic fish through end-to-end deep reinforcement learning.” [[Physics of Fluids 2024]]
+  - Xinyu Cui, Boai Sun, Yi Zhu, Ning Yang, **Haifeng Zhang**, Weicheng Cui, Dixia Fan, Jun Wang. “Enhancing efficiency and propulsion in bio-mimetic robotic fish through end-to-end deep reinforcement learning.” [[Physics of Fluids 2024]] (featured article, reported by AIP Scilight)
   - Yan Song, He Jiang, **Haifeng Zhang**, Zheng Tian, Weinan Zhang, Jun Wang. "Boosting Studies of Multi-Agent Reinforcement Learning on Google Research Football Environment: the Past, Present, and Future." [[AAMAS 2024b]]
   - Qirui Mi, Siyu Xia, Yan Song, **Haifeng Zhang**, Shenghao Zhu, Jun Wang. "TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning." [[AAMAS 2024a]]
   - Xue Yan, Jiaxian Guo, Xingzhou Lou, Jun Wang, **Haifeng Zhang**, Yali Du. "An Efficient End-to-End Training Approach for Zero-Shot Human-AI Coordination." [[NeurIPS 2023]]
