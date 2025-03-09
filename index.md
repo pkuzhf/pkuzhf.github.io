@@ -11,7 +11,7 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
   - Weiyu Ma, Qirui Mi, Yongcheng Zeng, Xue Yan, Runji Lin, Yuqiao Wu, Jun Wang, **Haifeng Zhang**. "Large language models play starcraft ii: Benchmarks and a chain of summarization approach." [[NeurIPS 2024a]] 
   - Xuanfa Jin, Ziyan Wang, Yali Du, Meng Fang, **Haifeng Zhang**, Jun Wang. "Learning to Discuss Strategically: A Case Study on One Night Ultimate Werewolf." [[NeurIPS 2024b]]
   - Chen Wang, Yan Song, Shuai Wu, Sa Wu, Ruizhi Zhang, Shu Lin, **Haifeng Zhang**. "AI-Olympics: Exploring the Generalization of Agents through Open Competitions." [IJCAI 2024]
-  - Yongcheng Zeng, Guoqing Liu, Weiyu Ma, Ning Yang, **Haifeng Zhang**, Jun Wang. "Token-level Direct Preference Optimization." [ICML 2024]
+  - Yongcheng Zeng, Guoqing Liu, Weiyu Ma, Ning Yang, **Haifeng Zhang**, Jun Wang. "Token-level Direct Preference Optimization." [[ICML 2024]]
   - Xinyu Cui, Boai Sun, Yi Zhu, Ning Yang, **Haifeng Zhang**, Weicheng Cui, Dixia Fan, Jun Wang. “Enhancing efficiency and propulsion in bio-mimetic robotic fish through end-to-end deep reinforcement learning.” [[Physics of Fluids 2024]] (**featured article, reported by AIP Scilight**)
   - Yan Song, He Jiang, **Haifeng Zhang**, Zheng Tian, Weinan Zhang, Jun Wang. "Boosting Studies of Multi-Agent Reinforcement Learning on Google Research Football Environment: the Past, Present, and Future." [[AAMAS 2024b]]
   - Qirui Mi, Siyu Xia, Yan Song, **Haifeng Zhang**, Shenghao Zhu, Jun Wang. "TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning." [[AAMAS 2024a]]
@@ -70,6 +70,7 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
    [ICLR 2025]: https://arxiv.org/pdf/2410.07927
    [NeurIPS 2024a]: https://proceedings.neurips.cc/paper_files/paper/2024/file/f0ebc318e2df08360b2df559e81602e5-Paper-Conference.pdf
    [NeurIPS 2024b]: https://arxiv.org/abs/2405.19946
+   [ICML 2024]: https://raw.githubusercontent.com/mlresearch/v235/main/assets/zeng24c/zeng24c.pdf
    [Physics of Fluids 2024]: https://pubs.aip.org/aip/pof/article-abstract/36/3/031910/3278049/Enhancing-efficiency-and-propulsion-in-bio-mimetic?redirectedFrom=fulltext
    [AAMAS 2024b]: https://arxiv.org/abs/2309.12951
    [AAMAS 2024a]: https://arxiv.org/abs/2309.16307
