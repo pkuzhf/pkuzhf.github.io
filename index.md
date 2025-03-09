@@ -4,6 +4,12 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
 
 # Publications
 
+  - Zhiyu Zhao, Qirui Mi, Ning Yang, Xue Yan, **Haifeng Zhang**, Jun Wang, Yaodong Yang. "Mean Field Correlated Imitation Learning" [[AAMAS 2025]]
+  - Xue Yan, Yan Song, Xidong Feng, Mengyue Yang, **Haifeng Zhang**, Haitham Bou Ammar, Jun Wang. "Efficient Reinforcement Learning with Large Language Model Priors." [[ICLR 2025]] 
+  - Zhiyu Zhao, **Haifeng Zhang**. "Variational Stochastic Games." [DAI 2024]
+  - Weiyu Ma, Dongyu Xu, Shu Lin, **Haifeng Zhang**, Jun Wang. "Adaptive Command: Real-Time Policy Adjustment via Language Models in StarCraft II."[DAI 2024]
+  - Weiyu Ma, Qirui Mi, Yongcheng Zeng, Xue Yan, Runji Lin, Yuqiao Wu, Jun Wang, **Haifeng Zhang**. "Large language models play starcraft ii: Benchmarks and a chain of summarization approach." [[NeurIPS 2024a]] 
+  - Xuanfa Jin, Ziyan Wang, Yali Du, Meng Fang, **Haifeng Zhang**, Jun Wang. "Learning to Discuss Strategically: A Case Study on One Night Ultimate Werewolf." [[NeurIPS 2024b]]
   - Chen Wang, Yan Song, Shuai Wu, Sa Wu, Ruizhi Zhang, Shu Lin, **Haifeng Zhang**. "AI-Olympics: Exploring the Generalization of Agents through Open Competitions." [IJCAI 2024]
   - Yongcheng Zeng, Guoqing Liu, Weiyu Ma, Ning Yang, **Haifeng Zhang**, Jun Wang. "Token-level Direct Preference Optimization." [ICML 2024]
   - Xinyu Cui, Boai Sun, Yi Zhu, Ning Yang, **Haifeng Zhang**, Weicheng Cui, Dixia Fan, Jun Wang. “Enhancing efficiency and propulsion in bio-mimetic robotic fish through end-to-end deep reinforcement learning.” [[Physics of Fluids 2024]] (**featured article, reported by AIP Scilight**)
@@ -60,6 +66,10 @@ Haifeng Zhang is an associate professor at Institute of Automation, Chinese Acad
   - Teaching assistant at Peking University, including Algorithms in Game AI (2018), General Game Playing (2015), Algorithm Analysis (2013, 2014), Data Structure and Algorithm (2013) and Introduction to Artificial Intelligence (2013)
   - Designer and organizer of AI competition as a part of National Olympiad in Informatics (NOI) in China (2010, 2011, 2012)
 
+   [AAMAS 2025]: https://arxiv.org/pdf/2404.09324
+   [ICLR 2025]: https://arxiv.org/pdf/2410.07927
+   [NeurIPS 2024a]: https://proceedings.neurips.cc/paper_files/paper/2024/file/f0ebc318e2df08360b2df559e81602e5-Paper-Conference.pdf
+   [NeurIPS 2024b]: https://arxiv.org/abs/2405.19946
    [Physics of Fluids 2024]: https://pubs.aip.org/aip/pof/article-abstract/36/3/031910/3278049/Enhancing-efficiency-and-propulsion-in-bio-mimetic?redirectedFrom=fulltext
    [AAMAS 2024b]: https://arxiv.org/abs/2309.12951
    [AAMAS 2024a]: https://arxiv.org/abs/2309.16307
